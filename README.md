@@ -53,6 +53,7 @@ Open any `.html` file in your browser to view it.
    cd HTML-CSS-Learning
 
 2. **Open a file:**
+
     Simply open any **index.html** or exercise file in your browser.
 
 3. **Edit in your favorite code editor (e.g., VS Code) to explore or tweak the code.**
